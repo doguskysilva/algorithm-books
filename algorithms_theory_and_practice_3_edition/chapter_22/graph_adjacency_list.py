@@ -105,7 +105,7 @@ if __name__ == "__main__":
         u = Q.pop()
         for v in graph.adjacencies(u):
             if v.color == "white":
-                v.color = "cinza"
+                v.color = "gray"
                 v.distance = u.distance + 1
                 v.next = u
                 Q.append(v)
