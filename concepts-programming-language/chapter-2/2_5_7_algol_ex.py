@@ -1,18 +1,15 @@
-MIN_SIZE_LIST = 0
-MAX_SIZE_LIST = 99
-
-size_list = int(input("Size of list: "))
 list_numbers = []
 result = 0
 average = 0
-sum = 0
+sum_list = 0
+size_list = int(input("Size of list: "))
 
 if size_list > 0 and size_list < 100:
     for counter in range(0, size_list):
         list_numbers.append(int(input("Put a number: ")))
-        sum = sum + list_numbers[counter]
+        sum_list = sum_list + list_numbers[counter]
 
-    average = sum / size_list
+    average = sum_list / size_list
 
     for counter in range(0, size_list):
         if list_numbers[counter] > average:

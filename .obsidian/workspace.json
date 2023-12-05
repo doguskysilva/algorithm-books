@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "799fe062a80e690d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b06f585338ddd4aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff6281659ca3d2bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e109324ea51c5bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "678fd14e3a90cd3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2766d0ab114c4d8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d48781c0f427f840",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d9f16fab5b80b2f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c1633c871452c9ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c22a61e16eb1c57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3379fee992c8031",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77f596ce22cada20",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8586593dc3aa1b57",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c531c5fc4d5bb3a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ff6281659ca3d2bd",
+  "lastOpenFiles": [
+    "concepts-programming-language/chapter-2/Exercícios de Programação.md",
+    "concepts-programming-language/chapter-2/README.md",
+    "concepts-programming-language/chapter-2/Questões de revisão.md",
+    "README.md",
+    "concepts-programming-language/chapter-2/Problemas.md"
+  ]
+}
