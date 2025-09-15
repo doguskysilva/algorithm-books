@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b06f585338ddd4aa",
+        "id": "be2c1262df07b267",
         "type": "tabs",
         "children": [
           {
-            "id": "ff6281659ca3d2bd",
+            "id": "69c62d097edf21d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -128,6 +128,16 @@
                 "file": "README.md"
               }
             }
+          },
+          {
+            "id": "69938353f116acec",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -146,13 +156,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff6281659ca3d2bd",
+  "active": "69c62d097edf21d2",
   "lastOpenFiles": [
-    "concepts-programming-language/chapter-2/pasex.py",
-    "concepts-programming-language/chapter-2/Exercícios de Programação.md",
-    "concepts-programming-language/chapter-2/README.md",
-    "concepts-programming-language/chapter-2/Questões de revisão.md",
+    "2023-12-04.md",
     "README.md",
-    "concepts-programming-language/chapter-2/Problemas.md"
+    "concepts-programming-language/chapter-2/Exercícios de Programação.md",
+    "concepts-programming-language/chapter-2/Problemas.md",
+    "concepts-programming-language/chapter-2/Questões de revisão.md",
+    "concepts-programming-language/chapter-2/README.md",
+    "concepts-programming-language/chapter-2/pasex.py"
   ]
 }
